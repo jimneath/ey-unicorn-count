@@ -1,1 +1,1 @@
-unicorn_worker_count = 8
+unicorn_worker_count 6
